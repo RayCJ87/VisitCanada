@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TravelProject</string>
+    <string-array name="cityLists">
+        <item>Toronto</item>
+        <item>Montreal</item>
+        <item>Vancouver</item>
+        <item>Calgary</item>
+    </string-array>
+    <string name="title_activity_city_intro">cityIntro</string>
+    <string name="Toronto_description">Toronto is the anchor of an urban agglomeration, known as the Golden Horseshoe in Southern Ontario, located on the northwestern shore of Lake Ontario. A global city, Toronto is a centre of business, finance, arts, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world</string>
+    <string name="Toronto_attraction">CN Tower, Royal Ontario Museum, Ontario Science Centre, Casa Loma, Niagara Falls.</string>
+
+    <string name="title_activity_vancouver_intro">VancouverIntro</string>
+    <string name="Vancouver_description">The City of Vancouver is a coastal, seaport city on the mainland of British Columbia. Located on the western half of the Burrard Peninsula, Vancouver is bounded to the north by English Bay and the Burrard Inlet and to the south by the Fraser River.</string>
+    <string name="Vancouver_attraction">Stanley Park, Granville Island, Grouse Mountain, Museum of Anthropology, Museum of Anthropology.</string>
+
+    <string name="title_activity_calgary_intro">CalgaryIntro</string>
+    <string name="Calgary_description">Calgary is a city in the Canadian province of Alberta. It is situated at the confluence of the Bow River and the Elbow River in the south of the province, in an area of foothills and prairie, about 80 km (50 mi) east of the front ranges of the Canadian Rockies.</string>
+    <string name="Calgary_attraction">Calgary Stampede, Calgary Olympic Park, Nose Hill Park, Dinosaur Provincial Park, Calgary Tower.</string>
+
+    <string name="title_activity_montreal_intro">MontrealIntro</string>
+    <string name="Montreal_description">Montreal is the second-largest primarily French-speaking city in the world, after Paris. It is situated 258 kilometres (160 mi) south-west of Quebec City. Historically the commercial capital of Canada, Montreal was surpassed in population and in economic strength by Toronto in the 1970s.</string>
+    <string name="Montreal_attraction">Notre-Dame Basilica, Old Montreal, Mount Royal, Montreal Museum of Fine Arts, Place des Festivals.</string>
+</resources>
